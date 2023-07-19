@@ -93,3 +93,4 @@ Coleções anteriores de grupos e canais que fiz:
 
 - https://www.linkedin.com/posts/eduardoellery_telegram-instantmessenger-multidevice-activity-6762408612187959296-uTOO?utm_source=share&utm_medium=member_desktop
 
+PS: fiz um post no linkedin apresentando esse repo https://www.linkedin.com/pulse/telegram-grupos-e-canais-eduardo-ellery
