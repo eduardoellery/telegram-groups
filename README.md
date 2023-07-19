@@ -88,3 +88,8 @@ Grupos e canais de telegram - sem ordem específica.
 - https://t.me/theninjaway1337
 - https://t.me/burpsuiteex
 - https://t.me/ctfplayers
+
+Coleções anteriores de grupos e canais que fiz:
+
+- https://www.linkedin.com/posts/eduardoellery_telegram-instantmessenger-multidevice-activity-6762408612187959296-uTOO?utm_source=share&utm_medium=member_desktop
+
