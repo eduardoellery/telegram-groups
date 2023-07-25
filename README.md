@@ -94,4 +94,35 @@ Coleções anteriores de grupos e canais que fiz:
 
 - https://www.linkedin.com/posts/eduardoellery_telegram-instantmessenger-multidevice-activity-6762408612187959296-uTOO?utm_source=share&utm_medium=member_desktop
 
+Lista de grupos/canais do post acima:
+
+- https://t.me/ransomwarebr
+- https://t.me/BugCrowd
+- https://t.me/becodoxpl
+- https://t.me/BugCrowdChat
+- https://lnkd.in/etmAxJi
+- https://lnkd.in/er5Gj9x
+- https://t.me/ctfbr
+- https://t.me/CyberArk
+- https://t.me/checkpointbr
+- https://t.me/LogRhythmSIEM
+- https://t.me/peass
+- https://lnkd.in/eQdb_CQ
+- https://t.me/socbrazil
+- https://t.me/siembrasil
+- https://t.me/forensecia
+- https://t.me/QRadarChat
+- https://t.me/prtgajuda
+- https://t.me/eSecurityBR
+- https://lnkd.in/eZc6Ce9
+- https://t.me/oscproad
+- https://t.me/regexbrasil
+- https://t.me/UndeadSec
+- https://lnkd.in/e_NaDcb
+- https://t.me/MaltegoBR
+- https://lnkd.in/e_FAHMJ
+- https://t.me/InfoSecBrazil
+- https://t.me/cybrtaskforce
+- https://lnkd.in/esstV2s
+
 PS: fiz um post no linkedin apresentando esse repo https://www.linkedin.com/pulse/telegram-grupos-e-canais-eduardo-ellery
