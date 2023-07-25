@@ -84,6 +84,7 @@ Grupos e canais de telegram - sem ordem específica.
 - https://t.me/mentebinaria
 - https://t.me/mxm0zsecintel
 - https://t.me/mxm0zdef
+- https://t.me/mxm0zoff
 - https://t.me/reconshell
 - https://t.me/theninjaway1337
 - https://t.me/burpsuiteex
